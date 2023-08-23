@@ -1,0 +1,13 @@
+{
+  "daysOfWeek": ".page-nav__day",
+  "header": ".page-header__title",
+  "subTitle": ".page-header__subtitle",
+  "keyWord": "Управление залами",
+  "movieTitle": ".conf-step__movie .conf-step__movie-title",
+  "lastDaySchedule": ".page-nav__day:nth-child(7)",
+  "movie": ".movie",
+  "seances": ".movie-seances__time",
+  "seat": ".buying-scheme__chair.buying-scheme__chair_standart:not(.buying-scheme__chair_taken, .buying-scheme__chair_selected)",
+  "acceptButton": ".acceptin-button",
+  "password": ".login__input[name='password']"
+}
